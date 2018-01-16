@@ -1,0 +1,69 @@
+body{
+    background-color: #f3f3f3;
+    color: #2d2d2d;
+    font-family: sans-serif;
+}
+
+h1{
+    font-family: 'Ubuntu', sans-serif;
+}
+
+h2{
+    font-family: 'Ubuntu', sans-serif;
+}
+
+header .container{
+    border-bottom: 2px solid #E80C91;
+}
+
+footer{
+    text-align: center;
+}
+
+.product_item{
+    padding: 25px;
+    box-shadow: 0 0 0 1px #ccc;
+    background-color: #fff;
+    margin: 10px 0;
+    border-radius: 2px;
+}
+
+.white_box{
+    padding: 15px;
+    margin-bottom: 50px;
+    box-shadow: 0 0 0 1px #ccc;
+    background-color: #fff;
+    border-radius: 2px;
+}
+
+label{
+    width: 200px;
+}
+
+.white_box input{
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+.product_label{
+    width: 25%;
+}
+
+.product_input{
+    width: 50px;
+    max-height: 26px;
+}
+
+.flex {
+    display: flex;
+    justify-content: space-between;
+}
+
+.margin-top {
+    margin-top: 20px;
+}
+
+.red_text {
+    color: red;
+    margin: 0;
+}
